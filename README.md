@@ -1,6 +1,7 @@
 # Resume Optimization with CrewAI
 
-![Resume Optimization System Architecture](docs/architecture-diagam.svg)
+<img width="899" height="214" alt="image" src="https://github.com/user-attachments/assets/26200ba0-cc0a-49b1-83a9-3b198aa83370" />
+
 
 An AI-powered tool that optimizes your resume for specific job applications using multiple AI agents. Built with [CrewAI](https://crewai.com).
 
@@ -80,7 +81,7 @@ The system uses three specialized AI agents:
 - Company name
 
 ## Support
-
+- [Reference youtube video](https://youtu.be/ppE1CXhRNF8?si=Hd1VGZcoK9zJ_2lD)
 - [CrewAI Documentation](https://docs.crewai.com)
 - [Community Forum](https://community.crewai.com)
 - [Chat with our docs](https://chatg.pt/DWjSBZn)
